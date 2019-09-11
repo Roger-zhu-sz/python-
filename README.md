@@ -1,4 +1,5 @@
-Description:
+Description & usage
+==================
         h2bNh.py    ----tiny hex to bin and htxt(with crc creating)
             eg. h2bNh.py -f *.hex -s 0x3800
             
